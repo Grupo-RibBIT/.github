@@ -20,7 +20,7 @@ Formado dentro da materia de Projeto Integrador da Fatec SJC, blá blá blá....
 
 | Nome | Link para contato |
 |---|---|
-| **Arthur** | Sem o link ainda |
+| **Arthur** | [Perfil do Github](https://github.com/ThurraVrd) |
 | **Camila** | [Perfil do Github](https://github.com/camilabernardis) |
 | **Guilherme** | [Perfil do Github](https://github.com/Jmcguicampos2024) |
 | **José** | [Perfil do Github](https://github.com/JBJ3Dart) |

@@ -25,7 +25,7 @@ Formado dentro da materia de Projeto Integrador da Fatec SJC, blá blá blá....
 | **Guilherme** | [Perfil do Github](https://github.com/Jmcguicampos2024) |
 | **José** | [Perfil do Github](https://github.com/JBJ3Dart) |
 | **Larissa** | Sem o link ainda |
-| **Miguel** | Sem o link ainda |
+| **Miguel** | [Perfil do Github](https://github.com/m1guelsoares) |
 | **Thais** | [Perfil do Github](https://github.com/ThaisPiresDosSantos) |
 | **Ulisses** | Sem o link ainda |
 | **Wilian** | [Perfil do Github](https://github.com/WilianFerraz) |

@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="/Arquivos de suporte pro readme/logo.png" alt="Reunião de oito sapos" width="260">
+
 # Grupo RibBIT
 
 **"Sempre caçando BUGS!!!"**

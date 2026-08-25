@@ -24,10 +24,10 @@ Formado dentro da materia de Projeto Integrador da Fatec SJC, blá blá blá....
 | **Camila** | [Perfil do Github](https://github.com/camilabernardis) |
 | **Guilherme** | [Perfil do Github](https://github.com/Jmcguicampos2024) |
 | **José** | [Perfil do Github](https://github.com/JBJ3Dart) |
-| **Larissa** | Sem o link ainda |
+| **Larissa** | [Perfil do Github](https://github.com/larissaggodoisantos-spec)|
 | **Miguel** | [Perfil do Github](https://github.com/m1guelsoares) |
 | **Thais** | [Perfil do Github](https://github.com/ThaisPiresDosSantos) |
-| **Ulisses** | Sem o link ainda |
+| **Ulisses** | [Perfil do Github](https://github.com/kikuchi-uli) |
 | **Wilian** | [Perfil do Github](https://github.com/WilianFerraz) |
 
 

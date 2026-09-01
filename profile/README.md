@@ -29,6 +29,7 @@ Formado dentro da materia de Projeto Integrador da Fatec SJC, blá blá blá....
 | **Thais** | [Perfil do Github](https://github.com/ThaisPiresDosSantos) |
 | **Ulisses** | [Perfil do Github](https://github.com/kikuchi-uli) |
 | **Wilian** | [Perfil do Github](https://github.com/WilianFerraz) |
+| **Vinícius** | Sem perfil ainda |
 
 
 

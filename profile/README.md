@@ -6,7 +6,6 @@
   <img src="../Arquivos de suporte pro readme/logo.png" alt="Logo do Projeto" width="200">
 </p>
 
-<h2 align="center">Imóveis SJC - Chatbot Telegram</h2>
 <h3 align="center">Ribbit</h3>
 
 <p align="center">
@@ -48,6 +47,17 @@ A solução consiste em um assistente virtual interativo no Telegram que process
 
 ---
 
+## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
+
+* User Stories com **Critérios de Aceitação**
+* Subtarefas divididas **a partir das US**
+
+## 🏆 DoD - Definition of Done <a id="dod"></a>
+
+#A definir
+
+---
+
 ## 📅 Cronograma de Sprints <a id="sprint"></a>
 
 | Sprint | Período | Documentação |
@@ -61,16 +71,16 @@ A solução consiste em um assistente virtual interativo no Telegram que process
 ## 💻 Tecnologias <a id="tecnologias"></a>
 
 <p align="center">
-  <a href="https://python.org"><img src="https://shields.io"></a>
-  <a href="https://github.com"><img src="https://shields.io"/></a>
-  <a href="https://atlassian.com"><img src="https://shields.io"/></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+   <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+ <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/></a>
 </p>
-
-*(Nota: Adicione novas tecnologias, como bibliotecas do Telegram ou frameworks de IA, conforme forem integrados ao projeto)*
 
 ---
 
 ## 📖 Manual de Instalação <a id="manual"></a>
+
+#Manual em planejamento.
 
 ### 🛠 Pré-requisitos
 
@@ -99,47 +109,47 @@ A solução consiste em um assistente virtual interativo no Telegram que process
     <tr>
       <td>Arthur</td>
       <td>Desenvolvedor</td>
-      <td><a href="https://github.com/ThurraVrd"><img src="https://shields.io"></a></td>
+      <td><a href="https://github.com/ThurraVrd"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
     </tr>
     <tr>
       <td>Camila</td>
       <td>Desenvolvedor</td>
-      <td><a href="https://github.com/camilabernardis"><img src="https://shields.io"></a></td>
+      <td><a href="https://github.com/camilabernardis"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
     </tr>
     <tr>
       <td>Guilherme</td>
       <td>Desenvolvedor</td>
-      <td><a href="https://github.com/Jmcguicampos2024"><img src="https://shields.io"></a></td>
+      <td><a href="https://github.com/Jmcguicampos2024"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
     </tr>
     <tr>
       <td>José</td>
       <td>Desenvolvedor</td>
-      <td><a href="https://github.com/JBJ3Dart"><img src="https://shields.io"></a></td>
+      <td><a href="https://github.com/JBJ3Dart"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
     </tr>
     <tr>
       <td>Larissa</td>
       <td>Desenvolvedor</td>
-      <td><a href="https://github.com/larissaggodoisantos-spec"><img src="https://shields.io"></a></td>
+      <td><a href="https://github.com/larissaggodoisantos-spec"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
     </tr>
     <tr>
       <td>Miguel</td>
       <td>Desenvolvedor</td>
-      <td><a href="https://github.com/m1guelsoares"><img src="https://shields.io"></a></td>
+      <td><a href="https://github.com/m1guelsoares"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
     </tr>
     <tr>
       <td>Thais</td>
       <td>Desenvolvedor</td>
-      <td><a href="https://github.com/ThaisPiresDosSantos"><img src="https://shields.io"></a></td>
+      <td><a href="https://github.com/ThaisPiresDosSantos"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
     </tr>
     <tr>
       <td>Ulisses</td>
       <td>Desenvolvedor</td>
-      <td><a href="https://github.com/kikuchi-uli"><img src="https://shields.io"></a></td>
+      <td><a href="https://github.com/kikuchi-uli"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
     </tr>
     <tr>
       <td>Wilian</td>
       <td>Desenvolvedor</td>
-      <td><a href="https://github.com/WilianFerraz"><img src="https://shields.io"></a></td>
+      <td><a href="https://github.com/WilianFerraz"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
     </tr>
     <tr>
       <td>Vinícius</td>

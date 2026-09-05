@@ -6,7 +6,7 @@
   <img src="../Arquivos de suporte pro readme/logo.png" alt="Logo do Projeto" width="200">
 </p>
 
-<h3 align="center">Ribbit</h3>
+<h2 align="center">Ribbit</h2>
 
 <p align="center">
   <a href="#desafio">Desafio</a> | 
@@ -74,6 +74,8 @@ A solução consiste em um assistente virtual interativo no Telegram que process
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
    <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
  <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/></a>
+ <a href="https://web.telegram.org/k/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+
 </p>
 
 ---

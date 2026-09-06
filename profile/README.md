@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="./Docs/images/logo.png" alt="Logo do Projeto" width="200">
+  <img src="../Arquivos de suporte pro readme/logo.png" alt="Logo do Projeto" width="200">
 </p>
 
 # Grupo Ribbit

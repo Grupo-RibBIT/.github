@@ -16,17 +16,62 @@ Formado dentro da materia de Projeto Integrador da Fatec SJC, blá blá blá....
 
 ## Integrantes
 
+<div align="center">
+  <table>
+    <tr>
+      <th>Membro</th>
+      <th>Função</th>
+      <th>Github</th>
+    </tr>
+    <tr>
+      <td>Arthur</td>
+      <td>Desenvolvedor</td>
+      <td><a href="https://github.com/ThurraVrd"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </tr>
+    <tr>
+      <td>Camila</td>
+      <td>Desenvolvedor</td>
+      <td><a href="https://github.com/camilabernardis"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </tr>
+    <tr>
+      <td>Guilherme</td>
+      <td>Desenvolvedor</td>
+      <td><a href="https://github.com/Jmcguicampos2024"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </tr>
+    <tr>
+      <td>José</td>
+      <td>Desenvolvedor</td>
+      <td><a href="https://github.com/JBJ3Dart"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </tr>
+    <tr>
+      <td>Larissa</td>
+      <td>Desenvolvedor</td>
+      <td><a href="https://github.com/larissaggodoisantos-spec"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </tr>
+    <tr>
+      <td>Miguel</td>
+      <td>Desenvolvedor</td>
+      <td><a href="https://github.com/m1guelsoares"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </tr>
+    <tr>
+      <td>Thais</td>
+      <td>Desenvolvedor</td>
+      <td><a href="https://github.com/ThaisPiresDosSantos"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </tr>
+    <tr>
+      <td>Ulisses</td>
+      <td>Desenvolvedor</td>
+      <td><a href="https://github.com/kikuchi-uli"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </tr>
+    <tr>
+      <td>Wilian</td>
+      <td>Desenvolvedor</td>
+      <td><a href="https://github.com/WilianFerraz"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </tr>
+    <tr>
+      <td>Vinícius</td>
+      <td>Desenvolvedor</td>
+      <td>-</td>
+    </tr>
+  </table>
 </div>
-
-| Nome | Link para contato |
-|---|---|
-| **Arthur** | [Perfil do Github](https://github.com/ThurraVrd) |
-| **Camila** | [Perfil do Github](https://github.com/camilabernardis) |
-| **Guilherme** | [Perfil do Github](https://github.com/Jmcguicampos2024) |
-| **José** | [Perfil do Github](https://github.com/JBJ3Dart) |
-| **Larissa** | [Perfil do Github](https://github.com/larissaggodoisantos-spec)|
-| **Miguel** | [Perfil do Github](https://github.com/m1guelsoares) |
-| **Thais** | [Perfil do Github](https://github.com/ThaisPiresDosSantos) |
-| **Ulisses** | [Perfil do Github](https://github.com/kikuchi-uli) |
-| **Wilian** | [Perfil do Github](https://github.com/WilianFerraz) |
-| **Vinícius** | Sem perfil ainda |

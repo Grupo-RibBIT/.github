@@ -70,8 +70,7 @@ Formado dentro da materia de Projeto Integrador da Fatec SJC, blá blá blá....
     </tr>
     <tr>
       <td>Vinícius</td>
-      <td>Desenvolvedor</td>
-      <td>-</td>
+      <td><a href="https://github.com/viniconst85"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
     </tr>
   </table>
 </div>
